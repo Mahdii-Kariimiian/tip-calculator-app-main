@@ -16,6 +16,21 @@ Junior challenge at frontendmentors.io
 This App takes the total amount of payment,the tip percentage and the number of people and calculates the tip amount and the total cost per person. I write this app with Tailwind and without a single line of CSS.
 
 ### Screenshot
+
+![tip calculator desktop ](https://github.com/Mahdii-Kariimiian/tip-calculator-app-main/assets/134393975/36bde20d-489f-43e7-a31c-e2c5666069c6)
+
+![tip calculator mobile](https://github.com/Mahdii-Kariimiian/tip-calculator-app-main/assets/134393975/0d92ed71-0183-4e66-8fe4-2efa64e7b27e)
+
+
+![tip calculator empty input](https://github.com/Mahdii-Kariimiian/tip-calculator-app-main/assets/134393975/6aee0766-18ce-4884-b9c7-309cde8e47f5)
+
+![tip calculator custom%](https://github.com/Mahdii-Kariimiian/tip-calculator-app-main/assets/134393975/dd4004f1-342b-41f1-8810-5ef06d634a4e)
+
+![tip calculator 10%](https://github.com/Mahdii-Kariimiian/tip-calculator-app-main/assets/134393975/4e2fced5-40cf-44c9-b78b-8231bac7b6fd)
+
+
+
+
 ### Links
 - vercel: https://tip-calculator-app-main-sigma.vercel.app/
 
